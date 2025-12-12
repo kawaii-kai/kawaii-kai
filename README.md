@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Android & Web Development**
+- 💬 Ask me about **Mobile Development**
 
 - 📫 How to reach me **baliaokyla02@gmail.com**
 
-- ⚡ Fun fact **I can speak like a chipmunk**
+- ⚡ Fun fact **I love beauty and makeup trends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
